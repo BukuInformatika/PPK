@@ -1,2 +1,2 @@
-# PPK
-Petunjuk Pengembangan Kompetensi
+# Template
+Template untuk buku informatika standar
